@@ -1,2 +1,2 @@
 # Hey-World
-Testing JS code for a small demo app
+Testing JS code for a small app
